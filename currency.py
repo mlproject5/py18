@@ -171,7 +171,7 @@ st.sidebar.markdown("""
                     font-family: 'Comic Sans MS', cursive;
                 }
             </style>
-            <p class="sidebar-text">Identify</p>
+            <p class="sidebar-text">Currency</p>
             <br/>
         """, unsafe_allow_html=True)
 
